@@ -106,7 +106,7 @@ Beyond all the syntax and code above, can you decipher what we're asking for? Wh
 
 This cycle, reviewing the README, running the tests, reading failure messages, reading the tests, editing your code, and trying it all again, is how you are supposed to code, it's what programmers do all day. We break things, we define the error with a test, we fix the code, we pass the test, we repeat.
 
-#### Write Your Code
+### Write Your Code
 
 After forking and cloning the lab, opening the lab in a text editor, reading the README, running the test suite, reading the errors, and reading the tests themselves in `spec`, you're ready to code. You've armed yourself with every weapon available in the arsenal of your intellect and we know you can program triumphantly.
 
@@ -130,13 +130,17 @@ You should ask for help on Learn.
 
 Programming is never about getting it all right at once. Programming is like solving a puzzle, you don't try to put it together immediately, you approach it one piece at a time. The workflow we're describing optimizes this process, trial and error, attempts and feedback, insight through failure. Most of our time as programmers is spent staring at error message and code wondering, "Hmm".
 
+##### Programming in Movies vs Real Life
 <iframe src="https://vine.co/v/hPXTA6l9AqQ/embed/simple" width="600" height="600" frameborder="0"></iframe>
 
 Follow this workflow, running tests, reading errors, writing code, running tests, reading errors, consulting the README, googling for more context on a topic, writing more code, running the tests again, reading errors, and repeat. You'll get it, you'll surprise yourself and find a confidence within you. And if you're just stuck or tired and just need some help, Ask a Question and the Learn community is here for you.
 
+Eventually your local tests will pass and Learn.co will indicate your success.
+![Pass](https://dl.dropboxusercontent.com/s/36nudmkxwmvrow9/2015-10-01%20at%2011.38%20PM.png)
 
+On the left is a passing test run in the terminal, on the right is what the right column in Learn for a passing local test (which we currently call a "Local Build").
 
-## Step 4: Staging your changes
+## Step 4: Stage and Commit Your Solution with `git`
 
 Once you've solved the lab by getting all tests to pass, you want to save your work and submit it to Learn. The first step in doing this is to "stage" your changes, or prepare them for submission. You can stage all of your changes at once with the `git add .` command: that command is saying "add all of my changes in the current directory" which is generally what you want to do.
 
