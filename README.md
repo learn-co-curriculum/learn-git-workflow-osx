@@ -252,4 +252,4 @@ However, sometimes in a lesson on Learn, we'll tell you to Fork and Clone a lab 
 
 **Every single time you see a refernce to forking, cloning, or GitHub to get started on a lab, you can just use `learn open` and the Learn CLI.** The `learn` CLI is exactly equivalent to the `git` workflow it's just automated. So understand that equivalence, GitHub Fork and `git clone` are the same as `learn open` which you're about to learn.
 
-<a href='https://learn.co/lessons/learn-git-workflow-osx' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/learn-git-workflow-osx' title='Using git with Learn'>Using git with Learn</a> on Learn.co and start learning to code for free.</p>
